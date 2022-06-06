@@ -35,10 +35,10 @@
 
 ## 平时作业
 
-- [公告作业](notice.md)
-- 个人作业+期中考试 - [下载](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/exam.zip)
+- [小组作业](notice.md)
+- [个人作业+期中考试](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/exam.zip)
 
-我把我们小组的作业内容和我的个人作业内容也传到[release](https://github.com/luzhixing12345/WHU-software-engineering/releases/tag/v0.0.1)了,实话实说我做的一般,要是把我这个当标准答案那估计是要寄,emm仅供参考吧
+我把我们[小组作业的所有文档](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/doc.zip)内容也上传了
 
 ## 课程大作业
 
