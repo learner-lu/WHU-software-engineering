@@ -31,6 +31,7 @@
 ## 课程内容
 
 - [软件工程基本概念和流程](work-flow.md)
+- [数据流图](DFD.md)
 - [软件模型](model.md)
 
 ## 平时作业
@@ -38,7 +39,9 @@
 - [小组作业](notice.md)
 - [个人作业+期中考试](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/exam.zip)
 
-我把我们[小组作业的所有文档](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/doc.zip)内容也上传了
+我把我们[小组作业的所有文档](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/doc.zip)内容也上传了,仅供参考.
+
+> 个人作业我做的一般,我相信大伙肯定都比我强不少,我就不传了
 
 ## 课程大作业
 
