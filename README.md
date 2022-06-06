@@ -35,6 +35,9 @@
 ## 平时作业
 
 - [公告作业](notice.md)
+- [个人作业+期中考试](personal-homework.md)
+
+我把我们小组的作业内容和我的个人作业内容也传到[release](https://github.com/luzhixing12345/WHU-software-engineering/releases/tag/v0.0.1)了,实话实说我做的一般,emm仅供参考吧
 
 ## 课程大作业
 
