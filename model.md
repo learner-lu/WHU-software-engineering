@@ -1,8 +1,5 @@
 # 软件模型
 
-
-
-
 ## 编码-修补生命周期模型
 
 ![SE3](https://raw.githubusercontent.com/learner-lu/picbed/master/SE3.png)
