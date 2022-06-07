@@ -44,6 +44,12 @@ E-R图(entity-relationship model)又称实体关系图,是一种提供了实体,
 
 ![20220607145107](https://raw.githubusercontent.com/learner-lu/picbed/master/20220607145107.png)
 
+## ER图与数据库的联系(补充)
+
+> [pdf下载](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/ER2database.pdf)
+
+![20220607171454](https://raw.githubusercontent.com/learner-lu/picbed/master/20220607171454.png)
+
 ---
 
 ## 总结
