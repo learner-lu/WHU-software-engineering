@@ -33,6 +33,7 @@
 - [软件工程基本概念和流程](work-flow.md)
 - [数据流图](DFD.md)
 - [ER图](ER.md)
+- [状态图](state-diagram.md)
 - [软件模型](model.md)
 
 ## 平时作业
@@ -40,9 +41,11 @@
 - [小组作业](notice.md)
 - [个人作业+期中考试](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/exam.zip)
 
-我把我们[小组作业的所有文档](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/doc.zip)内容也上传了,仅供参考.
+我把我们[小组作业的所有文档](https://github.com/luzhixing12345/WHU-software-engineering/releases/download/v0.0.1/doc.zip)内容也上传了
 
 > 个人作业我做的一般,我相信大伙肯定都比我强不少,我就不传了
+>
+> 我们的小组作业当时也是边学边做,磕磕绊绊,现在看来还是有不少问题没有考虑的,仅供参考.
 
 ## 课程大作业
 
