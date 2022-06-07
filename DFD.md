@@ -77,6 +77,8 @@
 
 最难的还是针对具体的问题如何设计一个好的数据流图
 
+关于一些其他的demo可以参考[这里](https://github.com/cuishuang/study-notes/blob/470b3c84bf326e3adb8af55f7cf277d7ec555ffa/Tools/%E6%95%B0%E6%8D%AE%E6%B5%81%E5%9B%BE.md),我认为笔记做的还是十分详细的
+
 参考
 
 https://zhuanlan.zhihu.com/p/231863024
