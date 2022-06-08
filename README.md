@@ -57,6 +57,14 @@
 
 我们小组选择的是一个自动生成PPT的微信小程序,详见[PPT-generator](https://github.com/learner-shx/PPT-generator)
 
+## [期末考试](final-exam.md)
+
+唉,寄
+
+刚考完,很难过,啥也不会我太菜了
+
+回忆一下考试内容留一份资料吧,只能说,祝后辈好运吧
+
 ## 结语
 
 TODO: 贡献到openWHU项目中
