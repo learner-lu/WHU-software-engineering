@@ -30,12 +30,14 @@
 
 ## 课程内容
 
-- [软件工程基本概念和流程](work-flow.md)
+- [软件工程基本概念和流程](work-flow.md) **重要,必看**
 - [数据流图](DFD.md)
 - [ER图](ER.md)
 - [状态图](state-diagram.md)
 - [用例模型](Use-Case-model.md)
 - [类图](class.md)
+- [设计模型各种图](graph.md)
+- [测试](test.md)
 - [软件模型](model.md)
 
 ## 平时作业
