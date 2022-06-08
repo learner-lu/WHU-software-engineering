@@ -38,7 +38,7 @@
 
 ![20220608142321](https://raw.githubusercontent.com/learner-lu/picbed/master/20220608142321.png)
 
-还有一种是扩展部分,表示一个用例可以拆分成几个子用例,几个用例是一个大用例的子集
+还有一种是扩展部分,表示一个用例可以拆分成几个子用例,几个用例是一个大用例的子集,使用`<<extend>>`的箭头,箭头指向大的集合
 
 ![20220608142806](https://raw.githubusercontent.com/learner-lu/picbed/master/20220608142806.png)
 
