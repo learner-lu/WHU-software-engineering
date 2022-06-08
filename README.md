@@ -35,6 +35,7 @@
 - [ER图](ER.md)
 - [状态图](state-diagram.md)
 - [用例模型](Use-Case-model.md)
+- [类图](class.md)
 - [软件模型](model.md)
 
 ## 平时作业
