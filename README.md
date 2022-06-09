@@ -1,5 +1,6 @@
 # 武汉大学软件工程课程复习
 
+![GitHub last commit](https://img.shields.io/github/last-commit/luzhixing12345/WHU-software-engineering)
 ![GitHub](https://img.shields.io/github/license/luzhixing12345/WHU-software-engineering)
 
 ## 前言
