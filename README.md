@@ -66,7 +66,7 @@
 
 回忆一下考试内容留一份资料吧,只能说,祝后辈好运吧
 
-## TODO: 贡献到openWHU项目中
+## TODO: 贡献到openWHU项目中 [DONE](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 
 ## 结语
 
